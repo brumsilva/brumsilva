@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-<!--
-**brumsilva/brumsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <strong> 🌵 🤖  Me chamo Bruno, tenho 24 anos e sou um advogado por formação, desenvolvedor por paixão  fortalezense arretado que ama comida design, tecnologia e muita inovação.</strong>
+</div> <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabalho com inovação aberta, processos ágeis e tecnologias frontend.
+- 🌱 Participo de um BOOTCAMP de Desenvolvimento Web Full Stack na <a href="https://www.instagram.com/soulcodeacademy/">SoulCode Academy</a>.
+- 🤔 Estou buscando aprender mais sobre as linguagens do BackEnd e Business Analytics.
+
+<br> 
+
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=brumsilva&show_icons=true&theme=dark" height="200rem" style="margin-right:4rem;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="200rem">
+</div>
+
