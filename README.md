@@ -1,7 +1,8 @@
 <h1>Hi there 👋</h1>
 
 <div>
- <strong> 🌵 🤖  Me chamo Bruno, tenho 24 anos e sou um advogado por formação, desenvolvedor por paixão  fortalezense arretado que ama comida design, tecnologia e muita inovação.</strong>
+ <strong> 🌵 🤖  Me chamo Bruno, tenho 24 anos e sou um advogado por formação, desenvolvedor por paixão e empreendedor por consequência. Um
+fortalezense arretado que ama comida design, tecnologia e muita inovação.</strong>
 </div> <br>
 
 
