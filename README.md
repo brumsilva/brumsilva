@@ -27,6 +27,9 @@ fortalezense que está vivendo em Dublin IRL e que ama comida, tecnologia, produ
  <span> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> </span>
  <span> <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"> </span>
  <span> <img src="https://img.shields.io/badge/nestjs-%23FF9A00.svg?style=for-the-badge&logo=nestjs&logoColor=white"> </span>
+  <span> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> </span>
+ <span> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> </span>
+  <span> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> </span>
 </div>
 
 <div>
@@ -42,9 +45,6 @@ fortalezense que está vivendo em Dublin IRL e que ama comida, tecnologia, produ
 
 <div>
  <h4> Ferramentas que desejo aprender:</h4>
- <span> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> </span>
- <span> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> </span>
- <span> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> </span>
  <span> <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"> </span>
  <span> <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"> </span>
 </div>
