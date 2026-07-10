@@ -5,11 +5,6 @@
 fortalezense que está vivendo em Dublin IRL e que ama comida, tecnologia, produto, design e muita inovação.</strong>
 </div> <br>
 
-<div style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=brumsilva&show_icons=true&theme=dark" height="150rem" style="margin-right:4rem;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" height="150rem">
-</div>
-
 <div>
  <h4> Tecnologias (Linguagens, Bibliotecas e Frameworks) que trabalho:</h4>
  <span> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </span>
