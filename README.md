@@ -31,6 +31,9 @@ fortalezense que está vivendo em Dublin IRL e que ama comida, tecnologia, produ
 <div>
  <h4> Ferramentas de design e gestão de projetos que utilizo:</h4>
  <span> <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"> </span>
+  <span> <img src="https://img.shields.io/badge/nestjs-%23FF9A00.svg?style=for-the-badge&logo=nestjs&logoColor=white"> </span>
+  <span> <img src="https://img.shields.io/badge/prisma%23FF9A00.svg?style=for-the-badge&logo=prisma&logoColor=white"> </span>
+  <span> <img src="https://img.shields.io/badge/nextdotjs%23FF9A00.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"> </span>
  <span> <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"> </span>
  <span> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> </span>
  <span> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> </span>
